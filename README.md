@@ -23,6 +23,7 @@ Desktop-приложение.
 #### Стек технологий:
 * Unity 3D
 * C# - для скриптов
+* Sweet Home 3D
 
 #### Сценарии использования: 
 Сценарий 1:
@@ -80,7 +81,9 @@ Desktop-приложение.
 
 #### Порядок установки:
 
-:heavy_exclamation_mark::heavy_exclamation_mark::heavy_exclamation_mark: Проект на данной стадии не закончен. Билда нет. .exe файла нет.
+:heavy_exclamation_mark: Залит сам проект. Не билд. .exe файла нет
+
+Если был бы билд: 
 
 0. Скачать архив из любого источника.
 1. Распаковать архив на любой диск.
@@ -88,8 +91,5 @@ Desktop-приложение.
 
 #### Структура приложения:
 1. Museum\Assets - ассеты приложения
-2. Museum\Library - библиотеки
-3. Museum\Logs - Логи
-4. Museum\Packages - json файлы
-5. Museum\ProjectSettings - настройки проекта
-6. Museum\Temp - некоторые временные файлы
+2. Museum\Packages - json файлы
+3. Museum\ProjectSettings - настройки проекта
